@@ -24,10 +24,15 @@ The data is taken from the MNIST dataset and worked on by the following
 algorithms as follows:-
 
 ● Naive Bayes
+
 ● K-Nearest Neighbors
+
 ● Decision Tree
+
 ● Support Vector Machine
+
 ● Random Forest
+
 
 
 The comparison of these algorithms is based on the characteristic chart of each
