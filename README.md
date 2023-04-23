@@ -1,4 +1,8 @@
-# Comparitive-analysis-of-machine-leaning-algorithm
+# Comparitive-analysis-of-machine-leaning-algorithm - MINOR PROJECT (FINAL YEAR)
+UNDER SUPERVISION OF- MR. DEEPAK SANT
+
+TEAM- ROHIT KANDARI & SAKSHI
+(ECE 8TH SEM)
 
 
 
