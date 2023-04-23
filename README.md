@@ -18,16 +18,10 @@ corresponding Y values which apprises what the digit is.
 The data is taken from the MNIST dataset and worked on by the following
 algorithms as follows:-
 
-● Logistic Regression
 ● Naive Bayes
 ● K-Nearest Neighbors
 ● Decision Tree
-● Support Vector Machines
-● Linear Regression
-● Ridge Regression
-● Neural Network Regression
-● Lasso Regression
-● Decision Tree Regression
+● Support Vector Machine
 ● Random Forest
 
 
